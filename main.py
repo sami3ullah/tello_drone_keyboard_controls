@@ -1,1 +1,1 @@
-print("Hello Tello drone")
+print("Hi Tello drone")
